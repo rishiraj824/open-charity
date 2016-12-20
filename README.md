@@ -14,7 +14,7 @@ used is OpenSans which is fetched from Google Fonts link. The carousel used is [
 
 
 ####View the theme here#####
-Click [here](139.59.5.189/open-charity) to view the demo:
+Click [here](http://139.59.5.189/open-charity) to view the demo:
 
 The Drupal 8 Version of the theme is attached in the repository. 
 
