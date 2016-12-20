@@ -9,7 +9,7 @@ The approach towards the theme has been to apply percentage and
 width : calc(); properties to maintain the grid like framework.
 Other than than it follows a basic 'section' wise architechture which maintains the 
 sites' backbone. The font used is MuseoSans, with weights 500 and 700. The body font
-used is OpenSans which is fetched from Google Fonts link. The carousel used is [Owl Carousel](owlgraphic.com/owlcarousel/).
+used is OpenSans which is fetched from Google Fonts link. The carousel used is [Owl Carousel](http://owlgraphic.com/owlcarousel/).
 
 
 
